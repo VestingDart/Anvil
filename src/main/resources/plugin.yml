@@ -1,0 +1,4 @@
+name: Anvil
+version: '${project.version}'
+main: org.vestingdart.anvil.Main
+api-version: '1.20'
