@@ -18,3 +18,4 @@ public final class Main extends JavaPlugin {
         // Plugin shutdown logic
     }
 }
+//test
