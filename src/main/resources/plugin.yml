@@ -2,3 +2,10 @@ name: Anvil
 version: '${project.version}'
 main: org.vestingdart.anvil.Main
 api-version: '1.20'
+commands:
+  anvil:
+    description: "Opens the Anvil"
+    aliases:
+      - ambos
+    permission: galaxicraft.multi.anvil
+    permission-message: "Galaxicraft ---> You dont have permission for executing this command"
