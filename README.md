@@ -1,5 +1,28 @@
-A sympel Minecraft Plugin wehre you can do /anvil to open a Anvil GUI without having a Anvil near you. You need to have the Permision to do that what you can easily can chage. It requiers LuckPerms but no other Plugins. If you dont have the Permision you get a message that you dont have the Permisions.
+# **🔨 Simple Anvil Plugin for Minecraft** #
+A lightweight Minecraft plugin that allows players to open an Anvil GUI anywhere using the command /anvil, without needing a physical anvil nearby.
 
-This Plugin is still in developement and will be finished soon.
+## **✨ Features:** ##
+✅ Open an Anvil GUI with /anvil anytime, anywhere
 
-I will add soon new workblocks...
+✅ Permission-based access (configurable via LuckPerms)
+
+✅ No extra dependencies except LuckPerms
+
+✅ If a player lacks permission, they receive a custom error message
+
+## **📌 Requirements:** ##
+✅ Minecraft Server (Paper/Spigot)
+
+✅ LuckPerms (for permission management)
+
+## **🚀 Upcoming Features:** ##
+🔧 Support for more workstations like Grindstone, Smithing Table & Loom
+
+⚙️ Configurable settings for better customization
+
+📜 Multi-language support
+
+⚠️ This plugin is still in development and will be released soon! Stay tuned for updates.
+
+## **📥 Contributions are welcome!** ## 
+Feel free to open issues & pull requests. 😊
