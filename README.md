@@ -1,8 +1,8 @@
 # **🔨 Simple Anvil Plugin for Minecraft** #
-A lightweight Minecraft plugin that allows players to open an Anvil GUI anywhere using the command /anvil, without needing a physical anvil nearby.
+A lightweight Minecraft plugin that allows players to open an Anvil GUI anywhere using the command `/anvil`, without needing a physical anvil nearby.
 
 ## **✨ Features:** ##
-✅ Open an Anvil GUI with /anvil anytime, anywhere
+✅ Open an Anvil GUI with `/anvil` anytime, anywhere
 
 ✅ Permission-based access (configurable via LuckPerms)
 
