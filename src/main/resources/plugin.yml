@@ -9,3 +9,15 @@ commands:
       - ambos
     permission: galaxicraft.multi.anvil
     permission-message: "Galaxicraft ---> You dont have permission for executing this command"
+  workbench:
+    description: "Opens the Workbench"
+    aliases:
+      - wb
+    permission: galaxicraft.mulit.workbench
+    permission-message: "Galaxicraft ---> You dont have permission for executing this command"
+  smithingtable:
+    description: "Opens the Smithing Table"
+    aliases:
+      - schmiedetisch
+    permission: galaxicraft.mulit.smithingtable
+    permission-message: "Galaxicraft ---> You dont have permission for executting this command"
