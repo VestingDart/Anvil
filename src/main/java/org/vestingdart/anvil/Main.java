@@ -10,6 +10,7 @@ public final class Main extends JavaPlugin {
         // Plugin startup logic
         this.getCommand("anvil").setExecutor(new Anvil());
         this.getCommand("workbench").setExecutor(new Workbench());
+        this.getCommand("smithingtable");
 
     }
 
