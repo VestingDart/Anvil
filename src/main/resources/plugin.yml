@@ -13,6 +13,7 @@ commands:
     description: "Opens the Workbench"
     aliases:
       - wb
+      - craft
     permission: galaxicraft.mulit.workbench
     permission-message: "Galaxicraft ---> You dont have permission for executing this command"
   smithingtable:
